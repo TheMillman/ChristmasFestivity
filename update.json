@@ -8,6 +8,7 @@
 	  "1.3.3": "Updated the mod from 1.14.4 to 1.15.2"
   },
   "1.14.4": {
+          "1.3.5": "Modified some textures, added effect to the candy canes and added particles to the Christmas toppers."
 	  "1.3.3": "Updated the mod from 1.12.2 to 1.14.4"
   },
   "promos": {
@@ -15,7 +16,7 @@
           "1.16.4-recommended": "1.3.3",
           "1.15.2-latest": "1.3.3",
           "1.15.2-recommended": "1.3.3",
-	  "1.14.4-latest": "1.3.3",
+	  "1.14.4-latest": "1.3.5",
           "1.14.4-recommended": "1.3.3"
   }
 }
